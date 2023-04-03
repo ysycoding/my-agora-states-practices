@@ -29,3 +29,4 @@ jobs:
             build s3://fe-56-ysycoding-s3 \
             --delete
         working-directory: ./my-agora-states-client
+
